@@ -9,6 +9,6 @@ Para instalar a última versão disponível desta biblioteca, execute o seguinte
 ```bash
 !pip install git+https://github.com/Account-onmi-2xplanet/biblio-enap.git
 
-from biblio_enap.iniciar import iniciar
+from biblio_enap import iniciar, testar
 
 iniciar()
