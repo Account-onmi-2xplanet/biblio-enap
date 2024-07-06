@@ -12,5 +12,5 @@ def baixar_planilha(url):
 
 def iniciar():
     # URL do arquivo no GitHub
-    url = "https://github.com/seu_usuario/biblio-enap/raw/main/Exemplo_Dados.xlsx"
+    url = "https://github.com/Account-onmi-2xplanet/biblio-enap/raw/main/Exemplo_Dados.xlsx"
     baixar_planilha(url)
