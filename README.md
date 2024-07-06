@@ -7,4 +7,8 @@
 Para instalar a última versão disponível desta biblioteca, execute o seguinte comando no seu terminal ou Jupyter Notebook/Google Colab:
 
 ```bash
-pip install git+https://github.com/Account-onmi-2xplanet/biblio_enap.git
+!pip install git+https://github.com/Account-onmi-2xplanet/biblio-enap.git
+
+from biblio_enap.iniciar import iniciar
+
+iniciar()
